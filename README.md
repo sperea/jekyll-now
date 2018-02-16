@@ -3,8 +3,6 @@
 avocado is a simple, responsive, one-page Jekyll theme which helps you establish an
 online presence with minimal effort.
 
-![avocado in action](/screenshots/full_size.png)
-
 ## Usage
 To use avocado with [GitHub Pages](https://pages.github.com/):
 
